@@ -1,7 +1,7 @@
 {
   "name": "saltybox",
   "version": "1.0.0",
-  "description": "scrapes saltybet matches",
+  "description": "scrapes saltybet matches from live api",
   "main": "log.js",
   "scripts": {
     "migrate": "npx knex migrate:latest --knexfile db/knexfile.js",
