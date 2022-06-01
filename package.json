@@ -7,7 +7,7 @@
     "migrate": "npx knex migrate:latest --knexfile db/knexfile.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "JIN",
   "license": "ISC",
   "dependencies": {
     "assert": "^2.0.0",
